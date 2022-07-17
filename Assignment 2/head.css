@@ -1,0 +1,145 @@
+body{
+    
+    background-color: #f2f6ff;
+    font-family: Raleway,sans-serif;
+    scroll-behavior: smooth;
+
+}
+.space{
+    padding: 2% 6%;
+
+}
+.header{
+    padding: 16px 78px;
+  background-color: #fff;  
+left: 0;
+right: 0;
+top:0;
+position: fixed;
+display: flex;
+box-shadow: 0 1px 1px #ccc;
+height: 50px;
+
+}
+
+.logo{
+    width: 130px;
+    font-size: 32px;
+    color: #0084ff;
+    font-weight: 900;
+    letter-spacing: -.9px;
+    line-height: 1.08;
+    margin-top: 5px;
+    font-stretch: normal;
+    text-align: left;
+    font-family: Raleway,sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+}
+.story{
+margin: 0;
+font-weight: 500;
+font-family: Raleway,sans-serif;
+font-style: italic;
+
+text-align: left;
+margin-inline-end: 0px;
+margin-block-start: 0px;
+margin-block-end: 1em;
+display: block;
+letter-spacing: .9px;
+    color: #000;
+}
+.exo{
+
+    display: block;
+letter-spacing: .8px;
+    color: #000;
+  
+font-family: Raleway,sans-serif;
+margin-left: 100px;
+margin-top: 20px;
+font-size: 15px;
+}
+.dropdown{
+transform: rotate(45deg);
+-webkit-transform: rotate(45deg);
+border: solid black;
+padding-top: 0;
+padding-left: 8px;
+display: inline-block;
+border-width: 0 3px 3px 0;
+padding: 3px;
+margin-left: 10px;
+margin-top: 25px;
+
+}
+
+
+
+h1{
+    font-family: Raleway,sans-serif;
+    font-size: 2.25em;
+  font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.94;
+    letter-spacing: -.9px;
+    color: #000;
+    margin: 0;
+    
+
+
+}
+p{
+    
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 8px;
+    margin-top: 0;
+    letter-spacing: 0.09px;
+    display: block;
+    
+}
+button{
+    width: auto;
+    
+    color: #0084ff;
+    border-radius: 15px;
+    border: 1px solid #0084ff;
+    cursor: pointer;
+    padding: 6px 14px;
+    margin: 5px;
+  margin-bottom: 20px;
+  letter-spacing: 0.09;
+  
+
+}
+button:hover{
+    background-color: #0084ff;
+    color: #fff;
+}
+
+
+.footer{
+
+Background-color: #172146;
+
+Padding: 80px 16%;
+margin-top: 60px;
+display: flex;
+
+
+column-gap: 800px;
+
+}
+
+h3{
+    margin-bottom: 0;
+    color: hsla(0,0%,100%,.5);
+    font-weight: 500;
+    margin-bottom: 20px;
+}
